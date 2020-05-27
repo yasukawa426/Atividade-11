@@ -1,0 +1,36 @@
+@CHARSET "UTF-8";
+/*
+ * style.css
+ */
+body {
+  padding-top: 50px;
+  background-color:black;
+}
+h1 {
+	text-align: left;
+	color:silver
+}
+td {
+padding: 12px;
+text-align: left;
+border: 1px solid #ddd;
+padding: 8px;
+color:black;
+} th {
+font-size: 18px;
+text-align:left;
+border: 1px solid #ddd;
+padding-left: 5px;
+padding-top: 12px; 
+padding-bottom: 12px;
+background-color: #4CAF50;
+color: white;
+}
+tbody{
+	background-color:white;
+}
+#paises{
+	width: 90%;
+	margin-left:auto; 
+    margin-right:auto;
+}
